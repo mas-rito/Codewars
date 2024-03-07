@@ -6,7 +6,6 @@
 //* "camelCasing"  =>  "camel Casing"
 //* "identifier"   =>  "identifier"
 //* ""             =>  ""
-
 // 26 February 2024
 
 function solution(string) {
